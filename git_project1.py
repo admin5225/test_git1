@@ -1,5 +1,10 @@
 def main():
-    print('My first git program')
+    print('Взлом пентагона:')
+    for i in range(101):
+        print(f"{i}%")
+    print('Пентагон взломан!')
+
+
 
 
 if __name__ == '__main__':
